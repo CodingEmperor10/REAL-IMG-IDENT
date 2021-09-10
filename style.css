@@ -1,0 +1,14 @@
+body{
+color: black;    
+background-color: orange;
+}
+
+#camera,#result{
+border: 2px dashed white;
+height: 300px;
+width: 350px;
+}
+
+.name_of_objects,#result_of_name,#result_of_accuracy{
+color: slateblue; 
+}
